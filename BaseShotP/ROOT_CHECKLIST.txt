@@ -1,0 +1,6 @@
+Render build must see requirements.txt at REPO ROOT.
+After you upload to GitHub, open your repo homepage and confirm you can see:
+- requirements.txt
+- app.py
+- render.yaml
+- Procfile
